@@ -1,6 +1,6 @@
 # ultimatum-helper-server
 
-Example of updating selfhosted extension for Ultimatum.
+Example of updating a self-hosted extension for Ultimatum.
 
 ```
 git clone https://github.com/gonzazoid/ultimatum-helper-server.git
